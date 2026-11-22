@@ -1,0 +1,17 @@
+﻿week,publish_date,slot,series,title,slug,category,layer,targetKeyword,searchIntent,sourceMaterial,status,articleFile,note
+W1,2026-11-24,Mon,遊戲規則,金米匯率什麼時候該囤糧？秋收與春荒的價差節奏,rice-price-hoarding-timing,mechanics,L1,金米匯率,想知道何時買糧最划算,遊戲內金米經濟規則＋五階段野戰消耗表,drafted,articles/rice-price-hoarding-timing.mdx,
+W1,2026-11-27,Thu,新手,新手第一週該做的五件事（順序錯了會卡關）,beginner-first-week-order,beginner,L1,新手第一週,剛進遊戲不知道先做什麼,新手教學關卡流程＋常見卡關點,pending,,
+W2,2026-12-01,Mon,歷史,川中島五次合戰的時間線與可查證史料,battle-kawanakajima-timeline,history,L1,川中島之戰,想釐清五次合戰的年份與結果,史料年表（甲陽軍鑑／上杉家文書等）＋學界爭議標註,pending,,
+W2,2026-12-04,Thu,名城巡禮,春日山城下町的補給點實地走訪,kasugayama-castletown-supply-walk,fieldtrip,L3,春日山城 下町,想去現地走訪補給路線,實地走訪紀錄＋GPS 軌跡＋拍攝建議,pending,,春日山城不在 48 城清單內，屬上杉線補充
+W3,2026-12-08,Mon,遊戲規則,五階段野戰的兵力配置原則,battle-five-phase-troop-layout,mechanics,L2,五階段野戰 配置,想學怎麼排兵布陣,合戰規則＋實戰覆盤紀錄,pending,,
+W3,2026-12-11,Thu,遊戲規則,攻城戰為什麼要斷補給而不是硬攻,siege-cut-supply-not-assault,mechanics,L2,攻城戰 補給,想理解攻城策略,攻城規則＋城池耐久與兵糧消耗公式,pending,,
+W4,2026-12-15,Mon,歷史,上杉謙信的越後統一：從守護代到戰國大名,uesugi-kenshin-echigo-unification,history,L1,上杉謙信 越後,想了解謙信崛起過程,史料＋家譜＋領地變遷圖,pending,,
+W4,2026-12-18,Thu,新手,城郭圖鑑怎麼看：曲輪・土壘・堀的判讀方法,castle-anatomy-reading-guide,beginner,L1,城郭 曲輪,看不懂城跡現場遺構,城郭用語對照＋現地照片標註,pending,,
+W5,2026-12-22,Mon,影音,影音：桶狹間之戰 10 分鐘解說腳本,video-okehazama-10min-script,video,L2,桶狹間之戰 解說,想看影片版解說,現有文章改寫為腳本＋分鏡建議,pending,,
+W5,2026-12-25,Thu,遊戲規則,冬季出兵的三個補給陷阱,winter-campaign-supply-traps,mechanics,L2,冬季 出兵 補給,冬天打仗常失敗,季節規則＋兵糧消耗加成,pending,,
+W6,2026-12-29,Mon,歷史,武田信玄的甲州法度：內政與軍役的連動,takeda-shingen-koshu-hatto,history,L1,甲州法度,想了解武田家內政,史料條文＋軍役動員數據,pending,,
+W6,2027-01-01,Thu,新手,元旦開局：新年活動與資源分配,new-year-event-resource-plan,beginner,L1,新年活動,想把握年度活動,活動規則＋資源投入優先序,pending,,
+W7,2027-01-05,Mon,歷史,小田原征伐的行軍距離與補給極限,odawara-campaign-supply-limit,history,L1,小田原征伐,想知道大軍怎麼補給,史料行軍紀錄＋距離計算,pending,,
+W7,2027-01-08,Thu,名城巡禮,駿府城下町實地探訪：今川館遺構與街道,Sunpu-castletown-fieldwalk,fieldtrip,L3,駿府城,想去靜岡現地看,實地走訪紀錄＋路線圖,pending,,與 castle-pilgrimage-queue 的 castle-sunpu（駿府城本體）分工：此篇寫城下町街道，需互相內鏈
+W8,2027-01-12,Mon,遊戲規則,合戰覆盤：三場以少勝多的共同條件,battle-outnumbered-three-cases,mechanics,L2,以少勝多,想找逆轉的共通點,三場戰役對照表＋規則模擬,pending,,
+W8,2027-01-15,Thu,新手,常見問題 TOP 20：新手最常問的規則疑惑,faq-top20-beginner-rules,beginner,L1,新手 常見問題,想一次搞懂規則,客服／社群高頻提問整理,pending,,

@@ -1,0 +1,105 @@
+階段,天數,工作項,類別,負責角色,產出／驗收標準,品牌防護檢查,狀態
+Phase 0 立憲,Day 1-3,定義名稱階層與對外主名,決策 A,老闆,母品牌＝戰國魂攻城團；附屬遊戲＝戰國魂の野望；原意＝立體化日本戰國世界觀,七渠道顯示名與 Google 商家名稱統一為主名,已確認
+Phase 0 立憲,Day 1-3,選定色彩系統,決策 B,老闆,甲案墨朱金 #B32B23／#1C1A17 定案,主色輔色可直接填入 Brand Guidelines,已確認
+Phase 0 立憲,Day 1-3,確認聲音三支柱與定位句,決策 B,老闆,史官之筆／軍師之謀／同袍之誼；定位＝以攻略百科旬戰報與實地走訪立體化戰國,可轉成文案規範訊息限制,已確認
+Phase 0 立憲,Day 1-3,確認主推據點與頁面清單,決策 C,老闆,主推 wiki.sengokus.jp＋文章頁；sengokus.jp 為實況；sitemap 定案,兩個子域都要納入追蹤與 sitemap,已確認
+Phase 0 立憲,Day 4-7,撰寫品牌憲法 v2.0,規範,品牌守護者,含三層世界觀／名稱階層／定位句／三支柱／詞彙表／禁用詞／CTA,繁體中文全篇；禁用詞含最真實與最具規模,完成
+Phase 0 立憲,Day 4-7,定義價值主張統一句,規範,文案,遊戲中攻下的每一座城，現實中都有一條實地探訪的路線,可驗證且無絕對化用語；取代 wiki 首頁舊文案,完成
+Phase 0 立憲,Day 4-7,製作專有名詞統一表與繁簡對照表,規範,文案,年號／令制國／城名／武將／數字格式／wiki 路徑完整,簡中渠道對照轉換但專名不改寫,完成
+Phase 0 立憲,Day 6-9,產出 Logo 套件 5 組變體,視覺,設計,1:1／橫式／深底／淺底／單色,小尺寸可辨識；不含附屬遊戲名的子品牌版,進行中
+Phase 0 立憲,Day 6-9,建立七渠道顯示名／頭像／簡介／連結對照表,一致性,社群,主名統一為戰國魂攻城團,名稱與 CTA 完全一致,進行中
+Phase 0 立憲,Day 8-10,產出配色效果圖與 wiki 入口頁／條目頁／文章頁設計稿,視覺,設計,設計稿 HTML 含頂部兩行布局與逐頁三問,全站 SVG 圖示無 Emoji；條目模板可批量複用,完成
+Phase 0 立憲,Day 10,Git 提交 v2.0,版本,技術,憲法／規範／設計稿／母檔皆入庫；可回退,回到上一提交最多損失一步,待辦
+Phase 1 地基,Day 11-14,wiki 首頁統一定位句與雙 CTA,官網,網頁設計,3 秒內答出做什麼／憑什麼信／怎麼加入,頂部兩行布局；資訊欄與導覽不放 CTA,待辦
+Phase 1 地基,Day 11-14,清除違禁詞：最真實／最具規模,合規,文案,改為收錄新手四步與五階段野戰規則／7 千用戶月 40 萬瀏覽,填進文案規範字詞排除；避免被 AI 抓進廣告標題,待辦
+Phase 1 地基,Day 14-18,建立 wiki 條目頁模板並逐頁套用,官網,網頁設計,倒金字塔首段＋規則數字表＋信任區＋CTA＋同類推薦 3-6 篇,每個條目頁都過一頁檢驗法三問（Final URL expansion 會選頁）,待辦
+Phase 1 地基,Day 14-18,建立文章頁模板與列表分頁,官網＋SEO,技術,10-15 篇分頁用可抓取獨立 URL；詳情頁有同主題推薦,不用無限滾動；第 2 頁起標註頁碼＋canonical,待辦
+Phase 1 地基,Day 16-20,補 FAQ／關於攻城團／招募頁／城郭圖鑑,官網,文案,含實地走訪路線與 7 千用戶 40 萬瀏覽；FAQ 答案具體有數據,每頁都有明確轉化入口,待辦
+Phase 1 地基,Day 16-20,建立 L2→L1 內鏈：事件頁底部導回對應 wiki 條目,SEO,技術,旬戰報與天下現況皆能回到規則條目,知識層與實況層形成閉環,待辦
+Phase 1 地基,Day 18-22,四層關鍵字矩陣落地 wiki,SEO,文案,核心詞首頁／業務詞條目／長尾詞文章／維度詞城郭聚合頁,文章頁為長尾詞主打產線,待辦
+Phase 1 地基,Day 18-22,加 Schema／llms.txt／robots.txt／hreflang,GEO,技術,Article／FAQPage／VideoObject／Organization／BreadcrumbList 齊備,放行主流 AI 爬蟲；lang=zh-Hant,待辦
+Phase 1 地基,Day 20-25,GA4＋轉換追蹤＋跨網域設定,數據,技術,wiki 與 sengokus 設允許連結器；測試轉換正確回傳,雙子域不可算成兩個使用者,待辦
+Phase 1 地基,Day 20-25,Search Console 網域資源＋兩份 sitemap,SEO,技術,一次涵蓋兩個子域並各驗證,收錄訊號不分散,待辦
+Phase 1 地基,Day 20-25,增強轉換＋DDA＋UTM 命名規範,數據,技術,主要轉換＝加入攻城團／註冊；自動標記開啟,不用最後點擊；避免雙算,待辦
+Phase 1 地基,Day 22-28,建立三比例圖片＋三方向影片素材母檔庫,素材,設計,1200×1200／1200×628／1080×1920＋影片三方向,中央 80% 安全區；沿用 wiki 攻略插畫風格,待辦
+Phase 1 地基,Day 26-30,全站違禁詞／簡繁／Emoji 圖示掃描,合規,文案,無絕對化用語；無簡繁混用；圖示統一 SVG,圖片上文字與 meta 描述也要掃,待辦
+Phase 1 地基,Day 30,Phase 1 驗收＋Git 提交,驗收,品牌守護者,改造後 wiki／文章模板／sitemap／素材庫／追蹤驗證報告,四道閘門前兩道通過,待辦
+Phase 2 驗證,Day 31-33,填入 Brand Guidelines 全欄位,廣告設定,投放,商家名稱＝戰國魂攻城團；5 組 Logo；主輔色 Hex；字體,截圖存檔；確認指引非鐵律仍須人審,待辦
+Phase 2 驗證,Day 31-33,填入 Text Guidelines 字詞排除＋18 條訊息限制,廣告設定,投放＋文案,禁用詞全數填入；含母品牌階層與三層世界觀限制,繁體／史官語氣／專名不可改寫／不得用最真實,待辦
+Phase 2 驗證,Day 33-35,填入 Visual Guidelines（若帳戶已開放）,廣告設定,投放,3 張 wiki 攻略插畫＋風格／應有／應避免 3 條規則,避免現代元素與邊緣疊字；避免不符設定的服制,待辦
+Phase 2 驗證,Day 33-35,建立網址排除清單＋廣告群組↔條目對應表,廣告設定,投放,只排除後台／分頁／舊版／純事件流水帳,條目與文章頁要保留給 AI 挑選,待辦
+Phase 2 驗證,Day 33-35,建立品牌排除＋負面關鍵字,廣告設定,投放,品牌詞含 wiki.sengokus.jp 與日文寫法,防止 PMax 領走品牌詞功勞,待辦
+Phase 2 驗證,Day 35-38,建立品牌詞精準比對獨立 Search 廣告系列,廣告結構,投放,品牌詞由 Search 持有且不受預算限制,監控 branded impression share,待辦
+Phase 2 驗證,Day 38-40,選一個廣告群組試 AI Max：只開搜尋字詞比對,廣告上線,投放,其餘功能保持關閉；小額預算,逐項開啟不要一次全開,待辦
+Phase 2 驗證,Day 40-53,前兩週密集監控搜尋字詞並加負面詞,監控,投放,每日／隔日報表＋負面詞紀錄,特別查 AI 是否把違禁詞抓進自動標題,待辦
+Phase 2 驗證,Day 47-55,穩定後依序開文案適配→最終網址擴展,廣告上線,投放,每開一項觀察再開下一項,網址擴展需先有排除清單與合格 wiki 落地頁,待辦
+Phase 2 驗證,Day 40-55,七渠道內容節奏試跑兩週,內容,社群,一則 wiki 條目或旬戰報拆成 7 渠道版本,核心事實／專名／CTA／UTM 完全一致；主名一致,待辦
+Phase 2 驗證,Day 40-55,AI 生成素材逐支人工審核並存檔,稽核,品牌守護者,每支有審核紀錄；不合格者移除,檢查裁切／色偏／專名／違禁詞／服制,待辦
+Phase 2 驗證,Day 55,Phase 2 驗收＋Git 提交,驗收,品牌守護者,設定截圖／搜尋字詞週報／素材審核紀錄,第三道閘門通過,待辦
+Phase 3 放大,Day 56-62,PMax 上線（素材齊全後）,廣告上線,投放,完整素材組＋品牌排除＋Search Themes 不重複,四道閘門全數通過才開,待辦
+Phase 3 放大,Day 60-75,Demand Gen 小額測試,廣告上線,投放,複用 YouTube 母片與實地古城影像；開品牌適宜性設定,排除不合適版位；不以 ROAS 直接比 Search,待辦
+Phase 3 放大,Day 62-75,建立再行銷與新客區隔受眾,受眾,投放,受眾清單與排除邏輯明確,避免 PMax 只吃回訪的容易轉換,待辦
+Phase 3 放大,Day 56-90,每週檢視 PMax 渠道層級報表,監控,投放,預算未被單一低意圖版位吃掉,Display／YouTube 異常即換素材,待辦
+Phase 3 放大,Day 70-75,第一次七渠道＋雙子域一致性稽核,稽核,品牌守護者,名稱／Logo／色碼／CTA／專名／UTM／兩子域逐項核對,一致率目標 100%；違規件數 0,待辦
+Phase 3 放大,Day 75-82,跑增量實驗／交叉驗證歸因,數據,投放,PMax uplift 或 branded impression share 交叉驗證,不用最後點擊下結論；跨網域歸因正確,待辦
+Phase 3 放大,Day 82-88,月度儀表板與 KPI 檢討,數據,品牌守護者,一致性領先指標＋成效落後指標＋護欄皆上榜,品牌詞 CPA 未惡化；wiki 文章頁 AI 引用數追蹤,待辦
+Phase 3 放大,Day 88-90,品牌憲法更新 v3＋下季內容月曆與預算建議,迭代,品牌守護者,v3 定稿並提交 Git；下季配比有依據,依實際數據調整 55/35/10 配比,待辦
+Phase 3 放大,Day 90,Phase 3 驗收,驗收,老闆＋品牌守護者,月度儀表板／稽核報告／v3 憲法／下季計劃,長期進入月度一致性稽核節奏,待辦
+Phase 3 放大,Day 56-60,複勘 wiki 技術棧與 sitemap 認知,勘查,品牌守護者,確認 Next.js＋Vercel ISR、統一 sitemap 現況 10 筆，以及另有需 Bearer Token 的 POST／GET 發文 API,依使用者提供之 API 規格施工；同步修正 v2.0 策略書技術棧描述,完成
+Phase 3 放大,Day 56-62,清除 meta／og／JSON-LD 內的違禁詞,合規,品牌守護者,首頁文案與 meta description、og:description、WebSite.description 全改為可驗證事實,先清源頭再開自動化；全站掃描 0 命中,待辦
+Phase 3 放大,Day 60-66,建立 content/articles 與 /articles/[slug] 路由,技術,網頁設計,改用既有 POST /api/wiki/articles；Token 設在「執行腳本的環境」（本機 env／.env／CI Secrets），詳設計書 v2.1 第拾章,不另開公網寫入端點；Token 只從 os.environ 讀並跑 env 自檢；.env 進 .gitignore,待辦
+Phase 3 放大,Day 60-66,文章頁模板與 frontmatter 27 欄定稿,設計,品牌守護者,三問側欄、統一 CTA、同主題推薦 3-6 篇、Article＋FAQPage Schema,先做一篇給老闆確認才批量（鐵律 14.1）,待辦
+Phase 3 放大,Day 66-70,品牌閘門升級 v1.1 並擋在 POST 之前,技術,品牌守護者,brand_gate.py 升 v1.2（5 類 category／bodyFormat: json 值域）；wiki_publisher.py v2.0 新增 compile_body() 與 G10 送出前複掃,違規文章連 payload 都不產生；未簽核不得 published；POST 失敗不重試,完成
+Phase 3 放大,Day 70-76,建立長尾詞隊列與 AI 起草流程,內容,文案＋AI,週 2-3 篇；只餵 wiki 規則、旬戰報、實地路線等真實來源,強模型定調＋便宜模型批量；不得編造兵力與城名,待辦
+Phase 3 放大,Day 70-76,每篇人工簽核並填 reviewedBy／reviewedAt,治理,簽核人,90 秒只簽品牌與事實，24 小時內完成；API 無審核態，此欄即審核態,技術上杜絕無人值守上線；違規件數 0,待辦
+Phase 3 放大,Day 76-82,發布後自動更新 sitemap／llms.txt 並主動推送,SEO/GEO,技術,POST 成功後把回應 url 寫進統一 sitemap、重建 llms.txt、補 canonical／hreflang、百度推送＋Google ping；另自動寫內文快照,API 不處理這些；新頁收錄時效 <24h；補 AI 爬蟲白名單宣告,待辦
+Phase 3 放大,Day 82-90,自動發文管線驗收與週報,驗收,老闆＋品牌守護者,週報含進站／收錄／AI 引用／加入數／違規件數／閘門攔截率；第一篇與 L3 試發皆以 draft 發出,G1–G10 全過；攔截率穩定後 <10%；跨渠道 UTM 一致率 ≥98%,待辦
+Phase 3 放大,Day 60-63,確認 body 格式與 category 是否增設 field-notes,規格確認,老闆＋技術,三項決策已確認：body = JSON 結構、增設 field-notes 第 5 類、內文 .mdx 進 Git 並寫快照；2026-11-20 後台目視確認 blocks-v1 為真實 schema,決策 01 正式定案，compile_body() 不需修改；剩後台建好 field-notes 分類,完成
+Phase 3 放大,Day 63-67,用 draft 發第一篇（三次實測）,試發,品牌守護者,2026-11-20 前兩次因 Token <32 字元回 503；第三次兩端換 40 字元後 env→list(200)→check→publish --confirm 回 201,G1–G10 全 PASS；draft／upsert=false；id=2；寫入 backups/ 內文快照；發文後 list 共 1 篇；Token 掃描 0 洩漏,完成
+Phase 3 放大,Day 56-58,更正 Token 設定位置認知,規格確認,品牌守護者,查 WorkBuddy 官方文件：無通用環境變數設定頁；最接近為連接器憑證表單（~/.workbuddy），本案採執行環境 env／.env,避免把 GitHub Actions Secrets 誤當 WorkBuddy 設定；避免作用域錯配,完成
+Phase 3 放大,Day 58-60,建立 .env.example 與 .gitignore,技術,品牌守護者,附 .env.example；.env 進 .gitignore；Token 不進對話／程式碼／Git／快照,跑 wiki_publisher.py env 自檢通過；list 回 200,完成
+Phase 3 放大,Day 60-63,後台增設第 5 類（key 定案 fieldtrip）,規格確認,老闆＋技術,後台分類新增「實地探訪」；key=fieldtrip；中文名亦可自動轉 key,"2026-11-21 後台已建好；L3 樣本以 fieldtrip 試發回 201、id=4，並於同日上線；分類阻塞解除",完成
+Phase 3 放大,Day 67,第一篇 draft 目視驗證 JSON body 渲染,試發,品牌守護者,使用者目視回覆：① blocks-v1 = 真實 schema（是）③ 三問區與 CTA 有出現但需統一 ④ 無簡體／Emoji／死胡同；第 ② 項排版未標註，視同正常,決策 01 定案；三問區與 CTA 已收斂為全站統一規格（詳設計書第拾貳章）,完成
+Phase 3 放大,Day 66,查明 503 真因：Token 長度不足 32 字元,規格確認,品牌守護者,使用者指出 API 規格：Token 至少 32 字元，太短即判定為「未設定」；兩端換成 40 字元後 list 由 503 變 200,v2.2／v2.3 歸因「變數未設／待 Redeploy」已被推翻並更正；往後 503 先量兩端長度再查部署,完成
+Phase 3 放大,Day 66-67,Vercel 補設 WIKI_API_TOKEN 並 Redeploy,技術,老闆＋技術,變數早已設定；先前 503 是伺服器端值僅 12／20 字元被長度檢查擋下，非未 Redeploy；兩端同步換成 40 字元後即通,不需額外 Redeploy 即回 200；若日後再換值仍需 Redeploy 才生效,完成
+Phase 3 放大,Day 66-67,Token 換成 ≥32 字元、兩端同步,安全,老闆,第三份 env.txt 長度 40（遮罩 zQ…Kb）；env 自檢 PASS 無警告；Vercel 端同步同值,符合 API 最小長度；值不進對話／程式碼／Git；/workspace 掃描 0 命中,完成
+Phase 3 放大,Day 67,第二次真實發文實測（Token 20 字元仍 503）,試發,品牌守護者,用 20 字元 env.txt 重跑 env → list 仍回 HTTP 503；未加 --confirm 不重發 POST,歷程紀錄：20 字元仍不足 32，故被判為未設定；backups/ 當時未產生、無半寫入,完成
+Phase 3 放大,Day 67,三種 Bearer 交叉診斷 503 阻塞點,規格確認,品牌守護者,不帶／錯誤／正確三種 Bearer 皆回 503 且原文相同,結論「比對前短路」成立；歸因已更正為「伺服器端 Token 長度不足」而非變數未注入,完成
+Phase 3 放大,Day 67,第三次真實發文：第一篇 draft 發出,試發,品牌守護者,env（40）→ list（200 共 0 篇）→ check（G1–G10 PASS）→ publish --confirm（不加 --publish）,HTTP 201 id=2 status:draft url=/articles/logistics-two-ku-famine/；寫入 backups/ 快照；發文後 list 回 1 篇,完成
+Phase 3 放大,Day 67,建立三問區與 CTA 全站統一規格,品牌一致性,品牌守護者,brand_gate.py 新增 BRAND_TRUST_SPEC 單一來源；統一標題／三問標準答案／CTA 文案／兩組連結／位置／SVG 圖示,改一處全站同步；文章頁／首頁／條目頁／七渠道共用同一句 CTA,完成
+Phase 3 放大,Day 67,管線與閘門落實統一規格,技術,品牌守護者,inject_brand_blocks() 不再讀 frontmatter 一律吃 SPEC；G4 新增「G4 統一」攔截自訂三問；markdown 相容路徑同源,兩篇不同分類 brand block 逐位元組相同；違規檔 BLOCK 不產生 payload,完成
+Phase 3 放大,Day 68,確認三問標準文案用語,文案決策,老闆,"使用者回覆「確認了 繼續」；三問標準答案正式定案","BRAND_TRUST_SPEC 不再變動；只改一處即全站同步；文案決策點已關閉",完成
+Phase 3 放大,Day 68-70,三篇正式上線（publish --publish）,上線,品牌守護者,"三篇改 status: published、reviewedAt 2026-11-21、upsert true → publish --confirm --publish","三篇皆 200 updated:true id 不變（2/4/3）；發布時間錯開 10:15/10:20/10:25；list 仍 3 篇無重複",完成
+Phase 3 放大,Day 66,env.txt 憑證檔處置與 .gitignore,安全,品牌守護者,確認 txt 上傳不影響取用；.gitignore 補 env.txt／*.env.txt；交付 .env.example 僅含空值,真實 Token 不 commit、不轉傳、用完自上傳區移除；/workspace 掃描 0 命中,完成
+Phase 3 放大,Day 68,第四次實測：L3 實地探訪樣本試發 draft,試發,品牌守護者,"list 200（共 1 篇）→ check G1–G10 PASS（17 blocks 含 brand）→ publish --confirm","HTTP 400「請選擇文章分類」（後由第六次實測以 fieldtrip 解除）；客戶端停止、不重試、不寫快照",完成
+Phase 3 放大,Day 68,G9 分類 WARN 預警命中,品質,品牌守護者,"check 階段 G9 已提示 field-notes 為第 5 類、後台未建好會回 400","實測回應與預警完全一致；證明閘門預警有效、非客戶端欄位錯誤",完成
+Phase 3 放大,Day 68-70,後台建立第 5 類分類並部署,技術,老闆＋技術,"使用者回覆已建好：英文 key 定案 fieldtrip（非暫名 field-notes）、顯示名稱實地探訪；PR #102 部署後生效","2026-11-21 實測 201 證實已上線；API 另支援中文名稱（繁簡）自動轉 key；400 會列出全部可用值",完成
+Phase 3 放大,Day 68,已發第一篇不重發（未獲 upsert 指令）,安全,品牌守護者,"第一篇 id=2 仍為統一規格前的舊三問文案且仍為 draft","使用者未說「一併重發」故不動線上資料；需顯式 --upsert 指令才執行",完成
+Phase 3 放大,Day 68,wiki_publisher.py 400 提示指向後台分類,技術,品牌守護者,"human_http_error 在 400 且原文含「分類」時，改為直接指向 field-notes 未建立","版本 v2.3 → v2.4；brand_gate.py v1.4 同步改寫 WARN 文案",完成
+Phase 3 放大,Day 68,第五次實測：重探 field-notes 分類,試發,品牌守護者,"list 200 → publish --confirm 仍回 400「請選擇文章分類」","新版 400 提示正確指向後台分類未建立；不重試、不寫快照",完成
+Phase 3 放大,Day 68,改用既有 history 類發出第三篇 draft,試發,品牌守護者,"新增 article-okehazama-sample.mdx（L1／桶狹間之戰）→ check G1–G10 PASS（18 blocks）→ publish --confirm","HTTP 201 id=3 status:draft url=/articles/battle-of-okehazama/；寫入 backups/ 第二份快照；list 回 2 篇",完成
+Phase 3 放大,Day 68,統一規格端到端驗證,品質,品牌守護者,"新快照 brand block 與 BRAND_TRUST_SPEC 逐項比對；並與第一篇舊快照比對","六項全一致；與舊快照不同（舊為單篇自訂文案）；新快照不含 Token",完成
+Phase 3 放大,Day 68,建立 .gitignore 憑證防護,安全,品牌守護者,"排除 .env／env.txt／*.env.txt／secrets.*／__pycache__/；!.env.example 放行空值範本","補上原先缺少的防護；含真實 Token 的 txt 不會誤 commit；backups/ 不排除",完成
+Phase 3 放大,Day 68,建立 Git 版本基線（第一版提交）,技術,品牌守護者,"git init 後納入設計書／兩支腳本／三篇 MDX／兩份快照／CSV／規範包","符合 SOP 全程版本管理；可回退、可分支；決策 03 內文雙備份正式落地",完成
+Phase 3 放大,Day 68,兩篇草稿並存且不自動覆寫,安全,品牌守護者,"id=2 舊三問、id=3 統一三問，皆為 draft 且皆未上線","未獲 --upsert 指令故不重發；舊文同步需顯式指令才執行",完成
+Phase 3 放大,Day 70,分類 key 定案 fieldtrip 並同步本地管線,技術,品牌守護者,"brand_gate.py v1.5／MDX 樣本／400 提示由 field-notes 全改 fieldtrip；coverImage 路徑同步","殘留掃描僅剩歷史紀錄註記；閘門 G1–G10 仍全 PASS；payload 一律送英文 key",完成
+Phase 3 放大,Day 70,第六次實測：fieldtrip 類 L3 試發 draft,試發,品牌守護者,"list 200（共 2 篇）→ check G1–G10 PASS（17 blocks）→ publish --confirm","HTTP 201 id=4 status:draft url=/articles/kasugayama-field-route/；寫入第三份快照；list 回 3 篇；brand block 仍與 SPEC 逐項一致",完成
+Phase 3 放大,Day 70,三篇草稿並存且不自動覆寫,安全,品牌守護者,"id=2／3／4 皆為 draft、皆未上線；id=2 仍為統一規格前舊三問","未獲 --upsert 指令故不重發；第一篇 --publish 需 reviewedBy＋明確指令",完成
+Phase 3 放大,Day 70,後台目視回報 [object Object],診斷,老闆＋品牌守護者,"後台內容顯示 [object Object]；核對快照確認 body 送出為 JSON 物件","API 不檢查 body 型別故 201 仍成功；後台編輯器吃字串；結構 blocks-v1 不變、只差型別",完成
+Phase 3 放大,Day 70,第七次實測：body 字串化重發草稿,修復,品牌守護者,"publish --confirm --upsert --body-stringify 重發 kasugayama-field-route","HTTP 200 updated:true 仍 id=4 無重複文章；快照 body=str 可解析回 17 blocks；18 檔憑證掃描 0 命中",完成
+Phase 3 放大,Day 70,body 格式定案 Markdown,決策,老闆＋品牌守護者,"後台截圖顯示欄位「內文（Markdown）」→ body 真格式定案 Markdown 字串","--body-format 預設改 markdown；blocks-v1 退役為相容；G5 值域擴充 json＋markdown",完成
+Phase 3 放大,Day 70,實作 upload-image 子命令（POST /api/wiki/images）,技術,品牌守護者,"探測契約：multipart file、僅接受 WebP（415）；錯誤訊息自描述","wiki_publisher.py v2.7 新增子命令（標準庫 multipart）；修正端點拼接為 /api/wiki/images",完成
+Phase 3 放大,Day 70,產製並上傳三張品牌封面,素材,品牌守護者,"墨朱金品牌色 1280×720 WebP ×3（兵糧／桶狹間／春日山）","三張全 201；取回 /media/articles/{3,4,5}-*.webp 填入 MDX coverImage；coverAlt 保留原文",完成
+Phase 3 放大,Day 70,第八次實測：三篇草稿 Markdown＋封面全修復,修復,品牌守護者,"MDX 改 bodyFormat: markdown → check ×3 PASS → publish --confirm --upsert ×3","三篇 updated:true id 不變；快照 body=str＋三問區＋新封面；list 仍 3 篇無重複；24 檔憑證掃描 0 命中",完成
+Phase 3 放大,Day 70,AI 生成戰國繪卷風格封面 ×3,素材,老闆＋品牌守護者,"參考圖風格＋中文標題；生成後修正桶狹間標題缺字（間）並抹除浮水印；轉 1280×720 WebP","三張經 upload-image 全 201（/media/articles/{6,7,8}-*.webp）；coverImage 更新後三篇 --upsert 全 updated:true id 不變",完成
+Phase 4 營運,Day 71,上線後公開頁驗證（不帶 Token）,驗收,品牌守護者,三篇以 requests 直接 GET 公開網址，檢查 title／三問／封面／JSON-LD／canonical,"三篇全 200；logistics 56,605 bytes，title 正確、三問區與封面圖與 JSON-LD 與 canonical 全在",完成
+Phase 4 營運,Day 71,sitemap 靜態缺口定位,SEO,品牌守護者,實測 sitemap.xml 是否含 /articles/<slug>/,僅 10 筆欄目頁、零文章頁 → 新文章無發現路徑；已交付 seo/sitemap.ts（動態 app/sitemap.ts 與 sitemap-articles.xml 兩案）,完成
+Phase 4 營運,Day 71-73,sitemap 動態化部署,SEO,技術方,採方案 A（app/sitemap.ts）或 B（sitemap-articles.xml＋robots.txt）擇一，Redeploy,驗證指令：curl -s https://wiki.sengokus.jp/sitemap.xml | grep logistics-two-ku-famine；待技術方排入,待辦
+Phase 4 營運,Day 71,llms.txt 內容撰寫,GEO,品牌守護者,品牌定位＋三層世界觀＋9 欄目＋3 文章＋引用規範,seo/llms.txt 已寫好；目前站上為 404，待部署到 public/llms.txt,完成
+Phase 4 營運,Day 71-73,llms.txt 部署上線,GEO,技術方,放到 public/llms.txt 並 Redeploy,驗證：curl -s https://wiki.sengokus.jp/llms.txt 應回 200 且含文章清單；待技術方排入,待辦
+Phase 4 營運,Day 72,百度與 Search Console 補提交,收錄,品牌守護者,sitemap 生效後於百度資源平台與 GSC 補提交；百度可另開主動推送 API,需 sitemap 動態化完成才有效；主動推送需申請 token,待辦
+Phase 4 營運,Day 72,建立 8 週 16 篇選題隊列,內容,品牌守護者,依三層世界觀與 5 分類配比（mechanics 5／beginner 4／history 4／fieldtrip 2／video 1）,content-queue.csv 已建；全部 pending；含 slug／關鍵詞／搜尋意圖／素材來源,完成
+Phase 4 營運,Day 72,週更 SOP 成文,流程,品牌守護者,六步自動指令＋人工六項審核＋七種失敗處置＋月度複盤＋六條紅線,weekly-autopublish-runbook.md 已建；明訂「產能自動化，責任不自動化」,完成
+Phase 4 營運,Day 72,建立週更自動化定時任務,自動化,老闆確認後建立,"Cron 0 0 9 * * 1,4（週一／週四 09:00）每次產 1 篇 draft；不加 --publish",已出任務參數預覽待老闆確認；未確認前不建立，避免產生無人監管的定時發布,待辦
+Phase 4 營運,Day 72,建立週更自動化定時任務 id=16097307,自動化,老闆確認＋品牌守護者,"Cron 0 0 9 * * 1,4（週一／週四 09:00）Asia/Shanghai；超時 1200 秒／重試 3 次；六步指令＋六條紅線寫入 prompt",老闆回「確認」後建立成功；下次自動運行 2026-11-23（週一）09:00,完成
+Phase 4 營運,Day 72,週更管線試跑（W1 週一選題）,驗證,品牌守護者,取題 → 起草 articles/rice-price-hoarding-timing.mdx → G1–G10 → 幾何封面 → upload-image → publish --confirm,首跑被 G1 攔下 4 項絕對化用語（最低×3＋第一）→ 修正後全 PASS；封面 201（/media/articles/9-*）；草稿 201 id=5；選題標 drafted；G1 補「第一週」時間敘述例外（brand_gate v1.7）,完成

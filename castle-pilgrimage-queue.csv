@@ -1,0 +1,57 @@
+﻿series,week_no,publish_date,slot,article_type,tier,region,castle,prefecture,figure,key_event,title,slug,category,layer,targetKeyword,searchIntent,status,note
+名城巡禮,W1,2027-01-21,Thu,route,P,九州,（路線總覽）,跨縣,—,路線樞紐頁,九州戰國名城巡禮：從博多到肥後，一條能走完的西國動線,route-kyushu-castles,fieldtrip,L3,九州 戰國 名城 巡禮,規劃一趟九州戰國歷史自由行,pending,pillar：串起本地區各城，內部連結hub
+名城巡禮,W2,2027-01-28,Thu,castle,S,R1,熊本城,熊本縣,加藤清正,慶長年間築城・1877 西南戰爭籠城,熊本城：加藤清正用石垣說話的一座城,castle-kumamoto,fieldtrip,L3,熊本城 加藤清正,想知道熊本城為何攻不破,pending,四幕結構＋不同解讀＋懸念收尾
+名城巡禮,W3,2027-02-04,Thu,route,P,中國,（路線總覽）,跨縣,—,路線樞紐頁,山陰山陽名城巡禮：毛利、宇喜多與吉川的領地交界,route-chugoku-castles,fieldtrip,L3,山陰山陽 戰國 名城,想走山陰山陽的歷史路線,pending,pillar：串起本地區各城，內部連結hub
+名城巡禮,W4,2027-02-11,Thu,castle,S,R2,姬路城,兵庫縣,池田輝政,1609 白鷺城・西國監視,姬路城：白不只是美，池田輝政的西國監視塔,castle-himeji,fieldtrip,L3,姬路城 池田輝政,想知道姬路城為何蓋成這樣,pending,四幕結構＋不同解讀＋懸念收尾
+名城巡禮,W5,2027-02-18,Thu,route,P,四國,（路線總覽）,跨縣,—,路線樞紐頁,四國名城巡禮：繞島一圈的戰國水運線,route-shikoku-castles,fieldtrip,L3,四國 戰國 名城 巡禮,想環四國走城,pending,pillar：串起本地區各城，內部連結hub
+名城巡禮,W6,2027-02-25,Thu,castle,A,R3,高知城,高知縣,山內一豐,1603 現存天守與追手門,高知城：山內一豐從掛川到土佐的那些年,castle-kochi,fieldtrip,L3,高知城 山內一豐,去高知想安排半天,pending,四幕結構＋不同解讀＋懸念收尾
+名城巡禮,W7,2027-03-04,Thu,route,P,近畿,（路線總覽）,跨縣,—,路線樞紐頁,近畿名城巡禮：從二條城走到大坂城的權力軸線,route-kinki-castles,fieldtrip,L3,近畿 戰國 名城,想用一座城讀懂中央政權,pending,pillar：串起本地區各城，內部連結hub
+名城巡禮,W8,2027-03-11,Thu,castle,S,R4,大阪城,大阪府,豐臣秀吉,1583 築・1614–15 大坂之陣,大阪城：豐臣秀吉的巔峰與兩次大坂之陣,castle-osaka,fieldtrip,L3,大阪城 大坂之陣,想釐清大阪城的前後兩代,pending,四幕結構＋不同解讀＋懸念收尾
+名城巡禮,W9,2027-03-18,Thu,route,P,東海,（路線總覽）,跨縣,—,路線樞紐頁,東海道名城巡禮：信長、秀吉、家康的出身地帶,route-tokai-castles,fieldtrip,L3,東海道 戰國 名城,想走東海道歷史線,pending,pillar：串起本地區各城，內部連結hub
+名城巡禮,W10,2027-03-25,Thu,castle,A,R5,岐阜城,岐阜縣,織田信長,1567 稻葉山・天下布武,岐阜城：信長把稻葉山改名的那一刻,castle-gifu,fieldtrip,L3,岐阜城 織田信長,想攻頂岐阜城,pending,四幕結構＋不同解讀＋懸念收尾
+名城巡禮,W11,2027-04-01,Thu,route,P,甲信越・北陸,（路線總覽）,跨縣,—,路線樞紐頁,甲信越與北陸名城巡禮：武田、上杉、前田的三面交界,route-koshinetsu-hokuriku-castles,fieldtrip,L3,甲信越 北陸 名城 巡禮,想走武田上杉前田的邊界,pending,pillar：串起本地區各城，內部連結hub
+名城巡禮,W12,2027-04-08,Thu,castle,S,R6,上田城,長野縣,真田昌幸,1585／1600 兩次上田合戰,上田城：真田昌幸兩次以寡擊眾的防守課,castle-ueda,fieldtrip,L3,上田城 真田昌幸,想懂上田合戰怎麼打,pending,四幕結構＋不同解讀＋懸念收尾
+名城巡禮,W13,2027-04-15,Thu,castle,S,R6,松本城,長野縣,石川數正,1594 現存天守・國寶,松本城：石川數正與那座沒有戰爭的天守,castle-matsumoto,fieldtrip,L3,松本城 石川數正,想安排松本半天,pending,四幕結構＋不同解讀＋懸念收尾
+名城巡禮,W14,2027-04-22,Thu,route,P,關東,（路線總覽）,跨縣,—,路線樞紐頁,關東名城巡禮：北條的總構與家康的入府,route-kanto-castles,fieldtrip,L3,關東 戰國 名城 巡禮,想知道關東為何易主,pending,pillar：串起本地區各城，內部連結hub
+名城巡禮,W15,2027-04-29,Thu,castle,S,R7,小田原城,神奈川縣,北條五代,1590 小田原征伐・總構,小田原城：北條五代經營百年的總構，為何一夜失效,castle-odawara,fieldtrip,L3,小田原城 小田原征伐,想懂小田原征伐,pending,四幕結構＋不同解讀＋懸念收尾
+名城巡禮,W16,2027-05-06,Thu,route,P,東北,（路線總覽）,跨縣,—,路線樞紐頁,東北名城巡禮：從津輕海峽到會津的奧州街道,route-tohoku-castles,fieldtrip,L3,東北 戰國 名城 巡禮,想走東北的戰國與幕末,pending,pillar：串起本地區各城，內部連結hub
+名城巡禮,W17,2027-05-13,Thu,castle,A,R8,會津若松城,福島縣,蘆名→伊達→蒲生→上杉,1868 戊辰・白虎隊,會津若松城：從蘆名到上杉，再到戊辰的那一戰,castle-aizuwakamatsu,fieldtrip,L3,會津若松城 戊辰戰爭,想去會津看幕末,pending,四幕結構＋不同解讀＋懸念收尾
+名城巡禮,W18,2027-05-20,Thu,castle,S,R5,犬山城,愛知縣,織田信康,1537 現存天守・木曾川,犬山城：木曾川邊那座 1537 年的天守,castle-inuyama,fieldtrip,L3,犬山城 現存天守,想找現存天守,pending,四幕結構＋不同解讀＋懸念收尾
+名城巡禮,W19,2027-05-27,Thu,castle,S,R4,彥根城,滋賀縣,井伊直政・直繼,1606 現存天守・井伊赤備,彥根城：井伊赤備與 1606 年那座天守,castle-hikone,fieldtrip,L3,彥根城 井伊直政,想去彥根看現存天守,pending,四幕結構＋不同解讀＋懸念收尾
+名城巡禮,W20,2027-06-03,Thu,castle,A,R8,弘前城,青森縣,津輕為信,1611 現存天守・津輕海峽,弘前城：津輕為信在北方邊境築起的據點,castle-hirosaki,fieldtrip,L3,弘前城 津輕為信,去青森想看現存天守,pending,四幕結構＋不同解讀＋懸念收尾
+名城巡禮,W21,2027-06-10,Thu,castle,A,R8,仙台城,宮城縣,伊達政宗,1601 青葉山・奧州 62 萬石,仙台城：伊達政宗把 62 萬石放在青葉山上,castle-sendai,fieldtrip,L3,仙台城 伊達政宗,去仙台想找政宗,pending,四幕結構＋不同解讀＋懸念收尾
+名城巡禮,W22,2027-06-17,Thu,castle,A,R7,江戶城,東京都,德川家康,1590 入府・幕府中樞,江戶城：家康 1590 年入府之後，那座城怎麼變成幕府,castle-edo,fieldtrip,L3,江戶城 德川家康,去皇居想懂江戶城,pending,四幕結構＋不同解讀＋懸念收尾
+名城巡禮,W23,2027-06-24,Thu,castle,A,R6,金澤城,石川縣,前田利家,1583 百萬石・加賀藩,金澤城：前田百萬石的防線與加賀藩的倉庫,castle-kanazawa,fieldtrip,L3,金澤城 前田利家,去金澤想懂加賀藩,pending,四幕結構＋不同解讀＋懸念收尾
+名城巡禮,W24,2027-07-01,Thu,castle,A,R6,松代城,長野縣,真田信之,1622 海津城・真田移封,松代城：真田信之從上田移到海津的那一步,castle-matsushiro,fieldtrip,L3,松代城 真田信之,想懂真田家的分家,pending,四幕結構＋不同解讀＋懸念收尾
+名城巡禮,W25,2027-07-08,Thu,castle,A,R5,駿府城,靜岡縣,德川家康,1585／1607 隱居・大御所政治,駿府城：家康退隱後，大御所政治的心臟,castle-sunpu,fieldtrip,L3,駿府城 德川家康,想懂大御所政治,pending,四幕結構＋不同解讀＋懸念收尾
+名城巡禮,W26,2027-07-15,Thu,castle,A,R5,名古屋城,愛知縣,德川義直,1610 金鯱・尾張德川,名古屋城：尾張德川與那對金鯱,castle-nagoya,fieldtrip,L3,名古屋城 德川義直,去名古屋想排半天,pending,四幕結構＋不同解讀＋懸念收尾
+名城巡禮,W27,2027-07-22,Thu,castle,A,R4,二條城,京都府,德川家康,1603 築・1867 大政奉還,二條城：從家康的宣誓到 1867 年的大政奉還,castle-nijo,fieldtrip,L3,二條城 大政奉還,去京都想排一個戰國點,pending,四幕結構＋不同解讀＋懸念收尾
+名城巡禮,W28,2027-07-29,Thu,castle,A,R4,和歌山城,和歌山縣,豐臣秀長→淺野,1585 虎伏山・紀州德川前史,和歌山城：豐臣秀長打下的紀州地基,castle-wakayama,fieldtrip,L3,和歌山城 豐臣秀長,想懂紀州德川的來源,pending,四幕結構＋不同解讀＋懸念收尾
+名城巡禮,W29,2027-08-05,Thu,castle,A,R2,松江城,島根縣,堀尾吉晴,1611 現存天守・宍道湖,松江城：堀尾吉晴與宍道湖邊那座現存天守,castle-matsue,fieldtrip,L3,松江城 堀尾吉晴,想看出雲的現存天守,pending,四幕結構＋不同解讀＋懸念收尾
+名城巡禮,W30,2027-08-12,Thu,castle,A,R2,廣島城,廣島縣,毛利輝元,1589 鯉城・關原後減封,廣島城：毛利輝元 1589 年的鯉城與關原後的減封,castle-hiroshima,fieldtrip,L3,廣島城 毛利輝元,想知道毛利家為何從廣島退到萩,pending,四幕結構＋不同解讀＋懸念收尾
+名城巡禮,W31,2027-08-19,Thu,castle,A,R2,岡山城,岡山縣,宇喜多秀家,1597 烏城・西軍主力,岡山城：宇喜多秀家的烏城與西軍的選擇,castle-okayama,fieldtrip,L3,岡山城 宇喜多秀家,想懂宇喜多家的起落,pending,四幕結構＋不同解讀＋懸念收尾
+名城巡禮,W32,2027-08-26,Thu,castle,A,R3,松山城,愛媛縣,加藤嘉明,1603 勝山・現存天守,松山城：加藤嘉明在勝山上算的一筆帳,castle-matsuyama,fieldtrip,L3,松山城 加藤嘉明,去道後想順排松山城,pending,四幕結構＋不同解讀＋懸念收尾
+名城巡禮,backlog,,Thu,inline,B,R1,福岡城,福岡縣,黑田長政,關原後筑前入封・47 萬石築城,福岡城：黑田長政用 47 萬石蓋起的博多灣防線,castle-fukuoka,fieldtrip,L3,福岡城 黑田長政,去福岡想順路看戰國遺跡,backlog,先收進路線篇 H3 小節；流量起來再升級單篇
+名城巡禮,backlog,,Thu,inline,B,R1,小倉城,福岡縣,細川忠興,1602 築城・唐造天守,小倉城：細川忠興與那座唐造天守,castle-kokura,fieldtrip,L3,小倉城 細川忠興,去門司港想排一個城,backlog,先收進路線篇 H3 小節；流量起來再升級單篇
+名城巡禮,backlog,,Thu,inline,B,R1,佐賀城,佐賀縣,鍋島直茂・勝茂,龍造寺氏被鍋島取代的過程,佐賀城：鍋島家如何接下龍造寺的家業,castle-saga,fieldtrip,L3,佐賀城 鍋島,想懂鍋島與龍造寺的關係,backlog,先收進路線篇 H3 小節；流量起來再升級單篇
+名城巡禮,backlog,,Thu,inline,B,R1,平戶城,長崎縣,松浦隆信,南蠻貿易與切支丹大名,平戶城：貿易港上的松浦家與南蠻船,castle-hirado,fieldtrip,L3,平戶城 松浦,想走長崎的戰國貿易線,backlog,先收進路線篇 H3 小節；流量起來再升級單篇
+名城巡禮,backlog,,Thu,inline,B,R1,島原城,長崎縣,松倉重政,1637 島原之亂的起點,島原城：一座城與 1637 年那場起義,castle-shimabara,fieldtrip,L3,島原城 島原之亂,想理解島原之亂的背景,backlog,先收進路線篇 H3 小節；流量起來再升級單篇
+名城巡禮,backlog,,Thu,inline,B,R2,岩國城,山口縣,吉川廣家,關原後 3 萬石・錦帶橋,岩國城：吉川廣家用 3 萬石守住的邊界,castle-iwakuni,fieldtrip,L3,岩國城 吉川廣家,去錦帶橋想順看城,backlog,先收進路線篇 H3 小節；流量起來再升級單篇
+名城巡禮,backlog,,Thu,inline,B,R3,高松城,香川縣,生駒親正,1590 水城・瀨戶內海運,高松城：生駒親正把城蓋在水邊的理由,castle-takamatsu,fieldtrip,L3,高松城 生駒親正,想懂水城怎麼運作,backlog,先收進路線篇 H3 小節；流量起來再升級單篇
+名城巡禮,backlog,,Thu,inline,B,R3,丸龜城,香川縣,生駒→京極,高石垣・現存天守,丸龜城：那座高石垣在防什麼,castle-marugame,fieldtrip,L3,丸龜城 石垣,想看石垣技術,backlog,先收進路線篇 H3 小節；流量起來再升級單篇
+名城巡禮,backlog,,Thu,inline,B,R3,大洲城,愛媛縣,脇坂安治・藤堂高虎,肱川・現存天守復元,大洲城：肱川邊那座用木頭重建的天守,castle-ozu,fieldtrip,L3,大洲城 肱川,想去伊予的小城,backlog,先收進路線篇 H3 小節；流量起來再升級單篇
+名城巡禮,backlog,,Thu,inline,B,R3,宇和島城,愛媛縣,藤堂高虎→伊達秀宗,1601 現存天守・伊達分家,宇和島城：藤堂高虎築城，伊達家接手,castle-uwajima,fieldtrip,L3,宇和島城 伊達,想懂伊達分家,backlog,先收進路線篇 H3 小節；流量起來再升級單篇
+名城巡禮,backlog,,Thu,inline,B,R4,大和郡山城,奈良縣,豐臣秀長,1585 郡山城・百萬石補佐役,大和郡山城：豐臣秀長那條被忽略的補給線,castle-yamatokoriyama,fieldtrip,L3,大和郡山城 豐臣秀長,想懂秀長的角色,backlog,先收進路線篇 H3 小節；流量起來再升級單篇
+名城巡禮,backlog,,Thu,inline,B,R4,伊賀上野城,三重縣,藤堂高虎,1608 高石垣・伊賀忍者,伊賀上野城：藤堂高虎那道 30 公尺的高石垣,castle-igaueno,fieldtrip,L3,伊賀上野城 藤堂高虎,想順看伊賀,backlog,先收進路線篇 H3 小節；流量起來再升級單篇
+名城巡禮,backlog,,Thu,inline,B,R4,長濱城,滋賀縣,羽柴秀吉,1574 小谷城後初封,長濱城：秀吉拿到第一塊地盤的地方,castle-nagahama,fieldtrip,L3,長濱城 豐臣秀吉,想追秀吉的起點,backlog,先收進路線篇 H3 小節；流量起來再升級單篇
+名城巡禮,backlog,,Thu,inline,B,R4,明石城,兵庫縣,小笠原忠真,1619 山陽道要衝,明石城：山陽道上的兩座櫓與一段距離,castle-akashi,fieldtrip,L3,明石城 山陽道,路過明石想停一小時,backlog,先收進路線篇 H3 小節；流量起來再升級單篇
+名城巡禮,backlog,,Thu,inline,B,R5,大垣城,岐阜縣,西軍本營,1600 關原前夕,大垣城：關原前一天，西軍在這裡做決定,castle-ogaki,fieldtrip,L3,大垣城 關原,想懂關原前哨,backlog,先收進路線篇 H3 小節；流量起來再升級單篇
+名城巡禮,backlog,,Thu,inline,B,R5,掛川城,靜岡縣,山內一豐,1590 後入封・東海道要衝,掛川城：山內一豐在東海道上的一站,castle-kakegawa,fieldtrip,L3,掛川城 山內一豐,想走東海道中途,backlog,先收進路線篇 H3 小節；流量起來再升級單篇
+名城巡禮,backlog,,Thu,inline,B,R5,濱松城,靜岡縣,德川家康,1570 三方原後・曳馬城,濱松城：三方原之後，家康把城移到這裡,castle-hamamatsu,fieldtrip,L3,濱松城 三方原,想懂家康的東海經營,backlog,先收進路線篇 H3 小節；流量起來再升級單篇
+名城巡禮,backlog,,Thu,inline,B,R6,甲府城,山梨縣,淺野長政,1583 築・武田氏館旁,甲府城：武田家倒下之後，淺野長政蓋的那座城,castle-kofu,fieldtrip,L3,甲府城 淺野長政,去甲府想看武田遺跡,backlog,先收進路線篇 H3 小節；流量起來再升級單篇
+名城巡禮,backlog,,Thu,inline,B,R6,小諸城,長野縣,仙石秀久,穴城・淺間山,小諸城：那座比城下町還低的穴城,castle-komoro,fieldtrip,L3,小諸城 穴城,想看不一樣的城郭,backlog,先收進路線篇 H3 小節；流量起來再升級單篇
+名城巡禮,backlog,,Thu,inline,B,R6,高島城,長野縣,諏訪賴忠,1598 浮城・諏訪湖,高島城：諏訪湖邊那座被叫做浮城的城,castle-takashima,fieldtrip,L3,高島城 諏訪,去諏訪想順看,backlog,先收進路線篇 H3 小節；流量起來再升級單篇
+名城巡禮,backlog,,Thu,inline,B,R6,長岡城,新潟縣,堀直寄→牧野,越後・戊辰戰爭,長岡城：越後平原上那座反覆被燒的城,castle-nagaoka,fieldtrip,L3,長岡城 戊辰戰爭,想懂越後的戰國與幕末,backlog,先收進路線篇 H3 小節；流量起來再升級單篇
+名城巡禮,backlog,,Thu,inline,B,R6,富山城,富山縣,佐佐成政,1585 前田勢力下,富山城：佐佐成政與越中的一年,castle-toyama,fieldtrip,L3,富山城 佐佐成政,去富山想排一小時,backlog,先收進路線篇 H3 小節；流量起來再升級單篇
+名城巡禮,backlog,,Thu,inline,B,R7,高崎城,群馬縣,井伊直政,1590 箕輪移城・關東押さえ,高崎城：井伊直政把城從箕輪搬到這裡,castle-takasaki,fieldtrip,L3,高崎城 井伊直政,路過高崎想停一站,backlog,先收進路線篇 H3 小節；流量起來再升級單篇
+名城巡禮,backlog,,Thu,inline,B,R8,山形城,山形縣,最上義光,霞城・最上氏改易,山形城：最上義光的霞城與改易那一刀,castle-yamagata,fieldtrip,L3,山形城 最上義光,想懂最上家,backlog,先收進路線篇 H3 小節；流量起來再升級單篇

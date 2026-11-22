@@ -1,0 +1,40 @@
+# 戰國魂攻城團 — 攻略百科
+
+> 《戰國魂攻城團》官方攻略百科。以可查證史料、合戰規則條目與團員實地走訪紀錄為依據，
+> 把日本戰國世界觀立體化：知識層（歷史戰役）、實況層（遊戲機制）、實地層（現地探訪）。
+> 附屬遊戲《戰國魂の野望》的規則與玩法，均在條目中標註對應出處。
+
+## 關於本站
+
+- 內容語言：繁體中文（zh-Hant）
+- 更新頻率：每週 1–2 篇（新文章依序累積於「文章專欄」）
+- 史料與推論分開標註；遊戲數值以當前版本為準
+- 聯絡與加入方式見 <https://wiki.sengokus.jp/faq/>
+
+## 核心欄目
+
+- [首頁](https://wiki.sengokus.jp/)：世界觀入口與最新文章
+- [新手入門](https://wiki.sengokus.jp/getting-started/)：第一週該做的事、介面導覽
+- [歷史戰役](https://wiki.sengokus.jp/battle/)：合戰經過、史料界線與可查證線索
+- [經濟與兵糧](https://wiki.sengokus.jp/economy/)：金米匯率、補給線、斷糧機制
+- [武將與資料庫](https://wiki.sengokus.jp/database/)：武將列傳、能力值與用法
+- [NPC 與事件](https://wiki.sengokus.jp/npc/)：事件觸發條件與對話選項
+- [世界觀](https://wiki.sengokus.jp/realm/)：三層世界觀（知識／實況／實地）說明
+- [文章專欄](https://wiki.sengokus.jp/articles/)：全部文章，含分類篩選
+- [常見問題](https://wiki.sengokus.jp/faq/)：規則疑惑與加入方式
+
+## 文章
+
+- [斷糧兩旬會怎樣？兵糧規則與三種補救做法](https://wiki.sengokus.jp/articles/logistics-two-ku-famine/)：連續兩旬斷糧的崩潰機制、秋收春荒週期、三種補救路徑
+- [春日山城實地探訪：沿著補給動線走一趟上杉的城](https://wiki.sengokus.jp/articles/kasugayama-field-route/)：遊戲中繼城補給動線對應現地 3.2 公里登城路線
+- [桶狹間之戰：永祿三年奇襲的三條可查證線索](https://wiki.sengokus.jp/articles/battle-of-okehazama/)：年代、兵力說法與行軍路線的史料界線
+
+## 引用規範
+
+轉載或引用請註明來源「戰國魂攻城團 wiki」並附原文網址。
+遊戲數值與活動內容可能隨版本調整，引用時請標註查閱日期。
+
+## 聯絡
+
+- 官網：<https://sengokus.jp>
+- 加入方式：<https://wiki.sengokus.jp/faq/>
