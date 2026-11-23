@@ -6,6 +6,8 @@
 > 週四固定出巡禮篇，結構依 `castle-article-spec.md`（四幕＋三種解讀＋懸念收尾）。
 > v1.2 變更：新增 Facebook 半自動同步（決策：半自動＋wiki 上線 30 分鐘後發），
 > 規格見 `facebook-post-spec.md`，文案由 `fb_post.py` 產生，你貼進 Meta Business Suite 排程。
+> v1.3 變更：升級全自動——v0 已部署 `/api/wiki/facebook`（含校驗與刪文端點，PR #109），
+> 首貼 201 驗證通過（2026-11-23）。主會話在 wiki 上線後直接呼叫 route 發 FB，不再走 Business Suite。
 
 ---
 
@@ -65,7 +67,7 @@
 
 **證據不足時**：寫「目前可查到的說法有兩種」，不要補一個看起來合理的數字。寧可留白，不要編。
 
-### Facebook 半自動同步（v1.2 新增）
+### Facebook 全自動同步（v1.3 升級，2026-11-23 首貼驗證通過）
 
 文章在 wiki 上線後，`fb_post.py` 會自動組出 FB 貼文文案（反差句＋摘要＋帶 UTM 的文章連結＋標籤），
 存到 `facebook/<slug>.txt`，並對文案做 G1／G2 迷你掃描。你的動作只有一個：
@@ -73,11 +75,13 @@
 
 | 邊界 | 規則 |
 |---|---|
-| 誰發佈 | **只有你**。管線不碰 Facebook，不持有任何 Meta 憑證 |
-| 文案來源 | `fb_post.py` 產草稿，反差句**必須人工改寫**後才貼出 |
-| 時點 | wiki 上線＋30 分鐘（先讓 wiki 被搜尋引擎抓首發） |
+| 誰發佈 | 主會話在 wiki 上線後呼叫 `POST /api/wiki/facebook`（Bearer `WIKI_API_TOKEN`） |
+| 校驗 | 服務端已做：連結白名單（sengokus.jp 系）、message/link 必填、長度上限（PR #109） |
+| 文案來源 | 排程產 `facebook/<slug>.txt`；首行反差句仍建議人工改寫後再發 |
+| 時點 | wiki 上線後即刻（原 30 分鐘錯開規則保留為手動補發時的建議） |
+| 刪文 | `DELETE /api/wiki/facebook?postId=<id>`（僅限本專頁貼文） |
 | 合規 | 貼文同樣禁絕對化用語與簡體；Meta 廣告政策對「最／第一」也敏感 |
-| 升級條件 | 跑 4 週，若你想改全自動，再去 Meta 開發者後台拿 Page Access Token 接 Graph API |
+| 失敗處置 | 401＝Token 問題；400＝payload 問題（查文案格式）；502/504＝FB 端，重試不超過一次；失敗不影響 wiki 上線 |
 
 ---
 
