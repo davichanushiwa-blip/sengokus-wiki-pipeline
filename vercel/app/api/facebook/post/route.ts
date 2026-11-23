@@ -2,13 +2,14 @@
 // Vercel Route：Facebook 粉絲專頁自動發文（全自動升級用）
 // ============================================================================
 // 部署位置：wiki 站 repo 內（Next.js App Router）
-//   app/api/facebook/post/route.ts
+//   正式實作已由 v0 完成：app/api/wiki/facebook/route.ts（/api/facebook/post 為別名）
+//   本檔為參考實作，含完整參數校驗（見 /workspace/vercel/FIX-facebook-validation.md）
 //
 // 用途：沙箱／排程任務連不上 graph.facebook.com，所以 FB 發文由 Vercel
 //       （海外節點）代發。排程任務在文章上線後打這個 route。
 //
 // 需在 Vercel Environment Variables 新增：
-//   FB_PAGE_TOKEN  = 長期 Page Access Token（fb_token_setup.py 產出，不會過期）
+//   FB_PAGE_ACCESS_TOKEN = 長期 Page Access Token（fb_token_setup.py 產出，不會過期）
 //   FB_PAGE_ID     = 粉絲專頁 ID
 //   WIKI_API_TOKEN = 沿用現有值（此 route 用它做呼叫者鑑權，防濫用）
 //
@@ -73,10 +74,10 @@ export async function POST(request: Request) {
 
   // 3) 發到粉絲專頁 feed（圖文：link 會自動帶出 OG 圖；有封面需求時可另傳 picture）
   const pageId = process.env.FB_PAGE_ID;
-  const pageToken = process.env.FB_PAGE_TOKEN;
+  const pageToken = process.env.FB_PAGE_ACCESS_TOKEN;
   if (!pageId || !pageToken) {
     return Response.json(
-      { error: "伺服器未設定 FB_PAGE_TOKEN／FB_PAGE_ID。" },
+      { error: "伺服器未設定 FB_PAGE_ACCESS_TOKEN／FB_PAGE_ID。" },
       { status: 503 }
     );
   }

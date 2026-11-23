@@ -1,5 +1,12 @@
 # Facebook 全自動發文：啟用清單
 
+> **2026-11-23 更新（以 v0 實作為準）**
+> - 端點：`/api/wiki/facebook`（`/api/facebook/post` 為別名，同一支程式）
+> - 變數：`FB_PAGE_ACCESS_TOKEN`（不是 FB_PAGE_TOKEN）、`FB_PAGE_ID`、`WIKI_API_TOKEN`
+> - 現況：端點已上線、發帖能力已驗證（201）；**但缺少參數校驗，見 `FIX-facebook-validation.md`，修好前不升級排程**
+> - 失敗案例：2026-11-23 實測，非法外鏈與缺 link 的請求都被真實發布（2 條測試貼文待刪）
+
+
 排程任務（#16097307）已加入 FB 文案產生步驟（半自動）。升級到全自動需完成以下 4 步。
 
 ## 已完成
