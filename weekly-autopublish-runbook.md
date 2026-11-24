@@ -8,6 +8,10 @@
 > 規格見 `facebook-post-spec.md`，文案由 `fb_post.py` 產生，你貼進 Meta Business Suite 排程。
 > v1.3 變更：升級全自動——v0 已部署 `/api/wiki/facebook`（含校驗與刪文端點，PR #109），
 > 首貼 201 驗證通過（2026-11-23）。主會話在 wiki 上線後直接呼叫 route 發 FB，不再走 Business Suite。
+> v1.4 變更：新增週報系列——v0 提供 `GET /api/wiki/digest?days=7` 週報 API 與 `/battles/` 合戰公開頁（60 場，
+> 已進 sitemap）；`digest_publish.py` 把週報包裝進全站統一規格（結論＋FAQ＋推薦＋三問區，閘門全過），
+> 固定封面 `13-weekly-cover.webp` 每週復用。排程任務 **16278605**（週一 11:00）產週報草稿；
+> 兩個排程任務的第〇步均已注入 `WIKI_API_TOKEN`（存於任務配置，建議日後在 Vercel 輪換同步）。
 
 ---
 
